@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mehran</h1>
 <h3 align="center">A passionate android developer from Iran</h3>
 
-- 🔭 I’m currently working on [whats app bot](project is not online yet)
 
-- 🌱 I’m currently learning testing
 
 - 👯 I’m looking to collaborate on android libraries
 
 - 🤝 I’m looking for help with Open sourse projects
-
-- 👨‍💻 All of my projects are available at [github/MeRoScode](github/MeRoScode)
 
 - 💬 Ask me about java, xml, android ,...
 
