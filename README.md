@@ -57,19 +57,7 @@
 
 ---
 
-## 🌟 Highlight Projects
-> Since direct API access is restricted in this environment, showcase cards below auto-sync from your public GitHub profile.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehranmr17&repo=Android-Interview-Questions&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehranmr17&repo=ToDoApp-Compose&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehranmr17&repo=Laravel-Api-Template&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ## 📈 GitHub Stats
 <div align="center">
